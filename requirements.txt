@@ -1,0 +1,7 @@
+customtkinter
+faster-whisper
+pynput
+pyperclip
+pyaudio
+numpy
+pywin32
