@@ -22,7 +22,7 @@ Clone the repository and install the dependencies:
 ```bash
 git clone https://github.com/yi435/EasyTranscribe.git
 cd EasyTranscribe
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ### 3. Run
