@@ -20,7 +20,7 @@
 ### 2. Setup
 Clone the repository and install the dependencies:
 ```bash
-git clone https://github.com/YOUR_USERNAME/EasyTranscribe.git
+git clone https://github.com/yi435/EasyTranscribe.git
 cd EasyTranscribe
 pip install -r requirements.txt
 ```
